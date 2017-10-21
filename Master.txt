@@ -1,5 +1,5 @@
 
-<Version: 1.03>
+<Version: 1.04>
 /data/Map006.json https://raw.githubusercontent.com/Guildycrow/GuildycrowLegionX/master/Map006.json
 /data/Map007.json https://raw.githubusercontent.com/Guildycrow/GuildycrowLegionX/master/Map007.json
 /data/Map012.json https://raw.githubusercontent.com/Guildycrow/GuildycrowLegionX/master/Map012.json
